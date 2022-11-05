@@ -1,6 +1,7 @@
 [user]
         name = Lance Ross
         email = 102563271+lancerossdev@users.noreply.github.com
+        signingkey = E8D44DB069CDD6E6
 [filter "lfs"]
         clean = git-lfs clean -- %f
         smudge = git-lfs smudge -- %f
