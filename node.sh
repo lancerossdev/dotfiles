@@ -15,9 +15,12 @@ npm install -g pnpm
 ## cli tools
 npm install -g wrangler
 npm install -g @vue/cli
-npm install -g vercel
-npm install -g firebase-tools
+npm install -g netlify-cli
 
 ## dev tools
 npm install -g serve
 npm install -g trash-cli
+
+# additional: install cloudflared
+curl -O https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb
+sudo dpkg --install cloudflared-linux-amd64.deb
