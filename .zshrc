@@ -115,7 +115,6 @@ alias rmr='rm -r'
 
 # aliases for going to home windows and linux directory
 alias cdwdc='cd /mnt/c/Users/Lance' # Make sure your folder username is correct
-alias cdwsl='cd /mnt/l/Linux' # Make sure to change the 'l' to the letter of your 2nd drive
 alias cdl='cd ~'
 
 # git aliases (from arnellebalane on github)
